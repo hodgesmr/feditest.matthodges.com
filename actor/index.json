@@ -7,6 +7,8 @@
 	"id": "https://feditest.matthodges.com/actor",
 	"type": "Person",
 	"preferredUsername": "static",
+	"name": "Static Post",
+	"summary": "I'm a test by <span class=\"h-card\"><a href=\"https://mastodon.social/MattHodges\" class=\"u-url mention\">@<span>MattHodges</span></a></span>",
 	"inbox": "https://feditest.matthodges.com/inbox",
 
 	"publicKey": {
