@@ -1,16 +1,8 @@
 {
-	"@context": "https://www.w3.org/ns/activitystreams",
-
-	"id": "https://feditest.matthodges.com/create-0",
-	"type": "Create",
-	"actor": "https://feditest.matthodges.com/actor",
-
-	"object": {
-		"id": "https://feditest.matthodges.com/0",
-		"type": "Note",
-		"published": "2022-12-11T22:03:00Z",
-		"attributedTo": "https://feditest.matthodges.com/actor",
-		"content": "<p>Hello world</p>",
-		"to": "https://www.w3.org/ns/activitystreams#Public"
-	}
+    "id": "https://feditest.matthodges.com/0",
+    "type": "Note",
+    "published": "2022-12-11T22:03:00Z",
+    "attributedTo": "https://feditest.matthodges.com/actor",
+    "content": "<p>Hello world</p>",
+    "to": "https://www.w3.org/ns/activitystreams#Public"
 }
