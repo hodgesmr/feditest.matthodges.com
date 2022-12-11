@@ -6,7 +6,7 @@
 
 	"id": "https://feditest.matthodges.com/actor",
 	"type": "Person",
-	"preferredUsername": "Static Post",
+	"preferredUsername": "static",
 	"inbox": "https://feditest.matthodges.com/inbox",
 
 	"publicKey": {
