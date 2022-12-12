@@ -1,11 +1,11 @@
 {
-	"subject": "acct:demo@feditest.matthodges.com",
+	"subject": "acct:user@feditest.matthodges.com",
 
 	"links": [
 		{
 			"rel": "self",
 			"type": "application/activity+json",
-			"href": "https://feditest.matthodges.com/actor"
+			"href": "https://feditest.matthodges.com/user"
 		}
 	]
 }
