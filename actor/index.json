@@ -3,17 +3,27 @@
 		"https://www.w3.org/ns/activitystreams",
 		"https://w3id.org/security/v1"
 	],
-
 	"id": "https://feditest.matthodges.com/actor",
 	"type": "Person",
 	"preferredUsername": "static",
-	"name": "Static Post",
-	"summary": "I'm a test by <span class=\"h-card\"><a href=\"https://mastodon.social/MattHodges\" class=\"u-url mention\">@<span>MattHodges</span></a></span>",
+	"name": "Static User Demo",
+	"summary": "I'm an experiment by <span class=\"h-card\"><a href=\"https://mastodon.social/MattHodges\" class=\"u-url mention\">@<span>MattHodges</span></a></span>. I'm an account in the fediverse that comes from nothing mroe than a GitHub page.",
 	"inbox": "https://feditest.matthodges.com/inbox",
-
 	"publicKey": {
 		"id": "https://feditest.matthodges.com/actor#main-key",
 		"owner": "https://feditest.matthodges.com/actor",
 		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv7kZ7XP8eFEsjJ7ZIOda\nTCniceMZZ+pheIBo5WCVgQUcouERLH3ugs64zpjIdNf72rT0VAemym4st3KV7+G3\nedIxKa6tQirhk/owFTKQmlhMaBYnFazSAd+FwT6yg6aGIFZoAxrHs7nMmE89J+L7\nldYhdjc/o2dP9QDiPYQmM7I5OYVo2AbtfTNyiqpq/8ns432xe8IMVxO0k0nf2gs+\nQIfYHLwER8lDqfUQpM4ZyZC+MgH5nn5ONj1AMWNuU200QBw3OCusOe89Tl8t7pOA\neIjHlSbz2OxJyWjkejawXtWeKaWX5c9kYOjDi5ohX50AXTEK3hb19n95t5juDKIo\nEQIDAQAB\n-----END PUBLIC KEY-----"
+	},
+	"attachment": [
+		{
+			"type": "PropertyValue",
+			"name": "about",
+			"value": "<a href=\"https://github.com/hodgesmr/feditest.matthodges.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hodgesmr/feditest.matthodges.com</span><span class=\"invisible\"></span></a>"
+		}
+	],
+	"image": {
+		"type": "Image",
+		"mediaType": "image/jpeg",
+		"url": "https://raw.githubusercontent.com/hodgesmr/feditest.matthodges.com/main/wave.png"
 	}
 }

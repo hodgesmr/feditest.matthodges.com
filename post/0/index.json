@@ -1,8 +1,0 @@
-{
-    "id": "https://feditest.matthodges.com/post/0",
-    "type": "Note",
-    "published": "2022-12-11T22:03:00Z",
-    "attributedTo": "https://feditest.matthodges.com/actor",
-    "content": "<p>Hello world</p>",
-    "to": "https://www.w3.org/ns/activitystreams#Public"
-}
