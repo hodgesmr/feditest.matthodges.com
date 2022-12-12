@@ -6,3 +6,4 @@ The only "app" here is a CNAME of `feditest.matthodges.com` to GitHub pages.
 
 This allows the profile (that doesn't do anything!) to show up on Mastodon. Kinda neat!
 
+![Mastodon screenshot](https://raw.githubusercontent.com/hodgesmr/feditest.matthodges.com/main/screenshot.png)
