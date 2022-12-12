@@ -6,7 +6,7 @@
 	"id": "https://feditest.matthodges.com/user",
 	"type": "Person",
 	"preferredUsername": "user",
-	"name": "Static User",
+	"name": "User",
 	"summary": "I'm an experiment by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\">@<span>MattHodges</span></a></span>. I'm an account in the fediverse that comes from nothing more than a GitHub page.",
 	"inbox": "https://feditest.matthodges.com/inbox",
 	"publicKey": {
@@ -21,9 +21,9 @@
 			"value": "<a href=\"https://github.com/hodgesmr/feditest.matthodges.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hodgesmr/feditest.matthodges.com</span><span class=\"invisible\"></span></a>"
 		}
 	],
-	"image": {
-		"type": "Icon",
-		"mediaType": "image/jpeg",
+	"icon": {
+		"type": "Image",
+		"mediaType": "image/png",
 		"url": "https://raw.githubusercontent.com/hodgesmr/feditest.matthodges.com/main/wave.png"
 	}
 }
